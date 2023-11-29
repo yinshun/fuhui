@@ -4,7 +4,8 @@ import {ACC23 as _ACC23} from 'accelon23/src/appconst.js'
 _ACC23.CacheName='v1::fuhui',
 _ACC23.AppVer='23.11.28';
 _ACC23.AppName='fuhui'
-_ACC23.AppTitle='印順導師選集'
+_ACC23.AppTitle='福慧選譯'
+_ACC23.repoLink="https://github.com/yinshun/fuhui/"
 _ACC23.allptks=['fuhui','fuhui-en'];
 _ACC23.selectedptks=['fuhui','fuhui-en']
 _ACC23.activeptk='fuhui'
